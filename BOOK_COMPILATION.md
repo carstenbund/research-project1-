@@ -2,39 +2,39 @@
 
 ## Index
 
-1. Preface (Meta-Introduction)
-2. Foundations
-   - Affective Tagging in Memory
-   - Phenomenology of Embodied Self
-   - Neuroplasticity and Symbolic Learning
-3. Culture
-   - Language as Symbolic Compression
-   - Ritual as Memory Technology
-4. Collapse
-   - Disinformation and Algorithmic Overload
-   - Historical Epistemic Collapse
-5. Non-Human
-   - Bohm’s Views on Animal Consciousness
-   - Proto-Symbolic Signaling
-6. Emergence
-   - Bohm's Implicate and Explicate Order
-   - Observer-Dependence and Quantum Collapse
-7. Theological
-   - Cross-Cultural God Concepts
-   - Ritual Theory: Turner and Durkheim
-8. Compression
-   - Compression as Living Fidelity
-9. Recursive Ontology
-   - Recursive Ontology Axioms Draft
-10. Appendices
-   - Author's Reflections
-   - Annotated Bibliography
-   - Glossary of Key Terms
-11. Additional Materials
-   - Initial Instructions
-   - Recursive Self
-   - Additional View: Cultural Scaffold
-   - Initial Text to Expand Upon
+1. [Preface (Meta-Introduction)](#preface-meta-introduction)
+2. [Foundations](#foundations)
+   - [Affective Tagging in Memory](#affective-tagging-in-memory)
+   - [Phenomenology of Embodied Self](#phenomenology-of-embodied-self)
+   - [Neuroplasticity and Symbolic Learning](#neuroplasticity-and-symbolic-learning)
+3. [Culture](#culture)
+   - [Language as Symbolic Compression](#language-as-symbolic-compression)
+   - [Ritual as Memory Technology](#ritual-as-memory-technology)
+4. [Collapse](#collapse)
+   - [Disinformation and Algorithmic Overload](#disinformation-and-algorithmic-overload)
+   - [Historical Epistemic Collapse](#historical-epistemic-collapse)
+5. [Non-Human](#non-human)
+   - [Bohm’s Views on Animal Consciousness](#bohms-views-on-animal-consciousness)
+   - [Proto-Symbolic Signaling](#proto-symbolic-signaling)
+6. [Emergence](#emergence)
+   - [Bohm's Implicate and Explicate Order](#bohms-implicate-and-explicate-order)
+   - [Observer-Dependence and Quantum Collapse](#observer-dependence-and-quantum-collapse)
+7. [Theological](#theological)
+   - [Cross-Cultural God Concepts](#cross-cultural-god-concepts)
+   - [Ritual Theory: Turner and Durkheim](#ritual-theory-turner-and-durkheim)
+8. [Compression](#compression)
+   - [Compression as Living Fidelity](#compression-as-living-fidelity)
+9. [Recursive Ontology](#recursive-ontology)
+   - [Recursive Ontology Axioms Draft](#recursive-ontology-axioms-draft)
+10. [Appendices](#appendices)
+   - [Author's Reflections](#authors-reflections)
+   - [Annotated Bibliography](#annotated-bibliography)
+   - [Glossary of Key Terms](#glossary-of-key-terms)
+11. [Additional Materials](#additional-materials)
+   - [Initial Instructions](initial-instructions.md)
+   - [Recursive Self](recursive-self.md)
+   - [Additional View: Cultural Scaffold](additional_view-cultural_scaffold.md)
+   - [Initial Text to Expand Upon](Initial_text_to_exand_upon.md)
 
 # Preface
 
