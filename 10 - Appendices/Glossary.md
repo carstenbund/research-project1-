@@ -1,0 +1,22 @@
+# Glossary of Key Terms
+
+- **Affective Tagging**: The process by which emotional valence marks memories, increasing their salience.
+- **Compression**: Reduction of information into a more compact form while retaining essential meaning.
+- **Communitas**: Turner's term for the sense of egalitarian solidarity experienced during ritual liminality.
+- **Decoherence**: Loss of quantum superposition due to interaction with the environment.
+- **Embodiment**: The condition of being physically situated; the body as integral to cognition.
+- **Explicate Order**: Bohm's term for the manifest aspects of reality that unfold from deeper structures.
+- **Holomovement**: Bohm's concept of a universal, dynamic flow underlying all phenomena.
+- **Intentionality**: In phenomenology, the directedness of consciousness toward objects or states.
+- **Liminality**: A transitional stage in ritual or social processes, characterized by ambiguity and openness.
+- **Neuroplasticity**: The brain's capacity to reorganize connections in response to experience.
+- **Phenomenology**: Philosophical study of structures of experience and consciousness.
+- **Proto-Symbolic**: Referring to early or foundational forms of symbolic communication in non-human species.
+- **Recursive Ontology**: A model describing consciousness as iterative feedback between symbols and experience.
+- **Semiotics**: The study of signs and symbols and their interpretation.
+- **Symbolic Compression**: Encoding complex ideas in concise symbolic forms for efficient communication.
+- **Symbolic Coherence**: Alignment and consistency among symbols, practices, and experiences.
+- **The implicate order**: Underlying domain of holistic relationships in Bohm's theory.
+- **Theological Coherence**: Integration of religious narratives and practices into a consistent worldview.
+- **Waggle Dance**: Honeybee signaling method conveying direction and distance to food.
+- **Wholeness**: Concept emphasizing interconnectedness and lack of fragmentation.
