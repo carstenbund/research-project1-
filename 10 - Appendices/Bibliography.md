@@ -10,3 +10,7 @@
 8. **Damasio, Antonio.** *The Feeling of What Happens*. 1999. — Links emotion to consciousness and decision-making.
 9. **Ward-Perkins, Bryan.** *The Fall of Rome and the End of Civilization*. 2005. — Analyzes factors behind the collapse of Roman institutions and knowledge systems.
 10. **Zurek, Wojciech H.** "Decoherence and the transition from quantum to classical." *Physics Today* (1991). — Provides an accessible overview of decoherence in quantum mechanics.
+11. **Tononi, Giulio.** *Phi: A Voyage from the Brain to the Soul*. 2012. — Outlines Integrated Information Theory as a contemporary model of consciousness.
+12. **Dehaene, Stanislas.** *Consciousness and the Brain*. 2014. — Presents experimental support for the global workspace theory.
+13. **Clark, Andy.** *Surfing Uncertainty*. 2016. — Explores predictive processing and embodied cognition.
+14. **Seth, Anil.** *Being You*. 2021. — Discusses recent advances in neuroscience of the self and perception.
